@@ -6,10 +6,11 @@ const data = {
       category: 'Shirts',
       image: '/images/p1.jpg',
       price: 80,
+      countInStock: 10,
       brand: 'Nike',
       rating: 4.5,
       numReviews: 10,
-      discription: 'hight quality product'
+      description: 'hight quality product'
     },
     {
       _id: '2',
@@ -17,10 +18,11 @@ const data = {
       category: 'Shirts',
       image: '/images/p1.jpg',
       price: 120,
+      countInStock: 120,
       brand: 'Nike',
       rating: 4.5,
       numReviews: 10,
-      discription: 'hight quality product'
+      description: 'hight quality product'
     },
     {
       _id: '3',
@@ -28,10 +30,11 @@ const data = {
       category: 'Shirts',
       image: '/images/p1.jpg',
       price: 119,
+      countInStock: 20,
       brand: 'Nike',
       rating: 4.5,
       numReviews: 10,
-      discription: 'hight quality product'
+      description: 'hight quality product'
     },
     {
       _id: '4',
@@ -39,10 +42,11 @@ const data = {
       category: 'Shirts',
       image: '/images/p1.jpg',
       price: 145,
+      countInStock: 0,
       brand: 'Nike',
       rating: 4.5,
       numReviews: 10,
-      discription: 'hight quality product'
+      description: 'hight quality product'
     },
     {
       _id: '5',
@@ -53,7 +57,7 @@ const data = {
       brand: 'Nike',
       rating: 4.5,
       numReviews: 10,
-      discription: 'hight quality product'
+      description: 'hight quality product'
     },
     {
       _id: '6',
@@ -61,10 +65,11 @@ const data = {
       category: 'Shirts',
       image: '/images/p1.jpg',
       price: 130,
+      countInStock: 30,
       brand: 'Nike',
       rating: 4.5,
       numReviews: 10,
-      discription: 'hight quality product'
+      description: 'hight quality product'
     }
   ]
 }
